@@ -6,7 +6,7 @@ import numpy as np
 import random
 
 # Load data
-data = pd.read_csv('2.electrisity/share-of-the-population-with-access-to-electricity.csv')
+data = pd.read_csv('dataset/share-of-the-population-with-access-to-electricity.csv')
 
 # License key
 with open('A/license-key', 'r') as f:
